@@ -1,6 +1,6 @@
 ## This script process the raw data obtained from the source and
 ## cleans it, merges it, and produces a summay of data by calculating averages
-## over each activities, each subject and each variable
+## over each activitiy, each subject and each variable
 ## source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
