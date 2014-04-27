@@ -1,7 +1,7 @@
 Human Activity Data Analysis
 ============================
 
-[Smartlab](http://www.smartlab.ws) carried out a experiment, which collected Human Activity Recognition dataset using Smartphones.
+[Smartlab](http://www.smartlab.ws) carried out a experiment, which collected Human Activity Recognition dataset using Smartphones. To download the data in zip format [click here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 This repository contains the raw data ([UCI_HAR_Dataset](UCI_HAR_Dataset)) obtained by the experiment and a script ([run_analysis.R](run_analysis.R)) to process this raw data. 
 
