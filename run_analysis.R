@@ -53,4 +53,4 @@ for (s in 1:numSubjects) {
 }
 
 ## 6. Writing the result to a output file
-write.table(cleandata, "../tidy_data.txt")
+write.table(cleandata, "tidy_data.txt")
